@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Dataset
+archive/
+
+# Model files (optional – see note below)
+*.h5
